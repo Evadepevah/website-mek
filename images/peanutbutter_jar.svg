@@ -1,0 +1,26 @@
+<svg width="200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Jar Body -->
+  <rect x="50" y="50" width="100" height="150" fill="#F5C16C" stroke="#D1A05B" stroke-width="2" />
+  
+  <!-- Jar Lid -->
+  <rect x="40" y="35" width="120" height="15" fill="#A67D5E" />
+  <rect x="60" y="35" width="80" height="15" fill="#8B5D33" />
+  
+  <!-- Jar Label -->
+  <rect x="60" y="170" width="80" height="40" fill="#FFFFFF" />
+  <text x="100" y="190" font-family="Arial, sans-serif" font-size="12" text-anchor="middle">Helaas pindakaas</text>
+  
+  <!-- Peanut Butter -->
+  <circle cx="100" cy="150" r="50" fill="#8B5D33" />
+  
+  <!-- Peanut Illustrations -->
+  <circle cx="90" cy="120" r="8" fill="#8B5D33" />
+  <circle cx="110" cy="130" r="10" fill="#8B5D33" />
+  <circle cx="80" cy="140" r="12" fill="#8B5D33" />
+  <circle cx="120" cy="150" r="9" fill="#8B5D33" />
+  <circle cx="70" cy="160" r="11" fill="#8B5D33" />
+  <circle cx="130" cy="120" r="7" fill="#8B5D33" />
+  
+  <!-- Jar Outline -->
+  <rect x="50" y="50" width="100" height="150" fill="none" stroke="#D1A05B" stroke-width="2" />
+</svg>
